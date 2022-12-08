@@ -8,4 +8,4 @@ Funcionalidade 1, funcionalidade 2
 
 ##### Tecnologias
 
-Pithon, C#, PHP, MYSQL, Javascript
+Python, C#, PHP, MYSQL, Javascript
