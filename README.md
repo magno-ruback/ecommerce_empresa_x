@@ -1,4 +1,11 @@
-# ecommerce_empresa_x
+# E-commerce empresa X
+
 Este é um e-commerce para empresa X, feito em PHP e MYSQL.
 
-# Teste
+## Funcionalidades
+
+Funcionalidade 1, funcionalidade 2
+
+##### Tecnologias
+
+Pithon, C#, PHP, MYSQL, Javascript
