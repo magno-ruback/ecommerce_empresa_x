@@ -57,4 +57,4 @@ function soma(a, b){
 
 - [x] Área de membros
 - [x] Integração com outros pagamentos
-- [] Sistema de bônus primeira compra
+- [ ] Sistema de bônus primeira compra
