@@ -31,8 +31,16 @@ _Funcionalidade 1, funcionalidade 2, **como solução secundária**_
 
 ### Imagem interna
 
-![Logo Javascript](img/javascript.png)
+[![Logo Javascript](img/javascript.png)](https://www.javascript.com/)
 
 ### Imagem externa
 
 ![Logo MySQL](https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png)
+
+### Links interessantes
+
+[Google](https://www.google.com.br)
+
+[https://horadecodar.com.br/](https://horadecodar.com.br)
+
+GitHub Magno: https://github.com/magno-ruback
