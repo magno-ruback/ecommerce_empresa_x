@@ -44,3 +44,11 @@ _Funcionalidade 1, funcionalidade 2, **como solução secundária**_
 [https://horadecodar.com.br/](https://horadecodar.com.br)
 
 GitHub Magno: https://github.com/magno-ruback
+
+## Códigos fonte
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
