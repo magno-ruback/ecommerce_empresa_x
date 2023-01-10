@@ -28,3 +28,11 @@ _Funcionalidade 1, funcionalidade 2, **como solução secundária**_
     3. CDD diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem interna
+
+![Logo Javascript](img/javascript.png)
+
+### Imagem externa
+
+![Logo MySQL](https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png)
