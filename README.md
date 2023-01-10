@@ -52,3 +52,9 @@ function soma(a, b){
     return a + b;
 }
 ```
+
+## Status das funcionalidades a desenvolver
+
+- [x] Área de membros
+- [x] Integração com outros pagamentos
+- [] Sistema de bônus primeira compra
